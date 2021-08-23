@@ -71,7 +71,14 @@ These criterias are as follows -
 
 ## ❓How to submit Datasets
 
-> ToDo
+A complete guide on submitting datasets can be found [here](https://medium.com/@manan.patel/guide-to-submit-datasets-for-data-farming-983eb5414be7)
+
+1. If your dataset qualifies, then create an issue in the Data Farming github repo. To create an issue [click here](https://github.com/oceanprotocol/datafarming/issues/new?assignees=&labels=&template=dataset_listing_request.md) or go to `Issues tab` and click on `Get Started` button of `Data Listing Request` template.
+2. Fill the details in the Data Listing template (replace ---Your answer--- with correct details)
+3. In the Issue Title write - "Listing Request - <DID of your dataset>" (DID of your dataset can be obtained from your dataset page in Ocean Market).
+4. Once all above information is provided, click on `Submit new issue` button. Once submitted the this issue will be reviewed by Data Farming team and appropriate resolution will be provided within a week. 
+
+> Important - Due to many expected listing requests, Data Farming team can take upto one week to review your listing request and include in Data Farming list. Data Farming list will be updated at the end of every week. If your listing request makes it to the Farming list before start of next week (starting Monday), then your datase will start earning rewards for that week otherwise it would be included the update next week.
 
 ## 🧑‍🌾 Farming List Usage
 
