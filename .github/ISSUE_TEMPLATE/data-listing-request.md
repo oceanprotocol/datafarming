@@ -1,9 +1,9 @@
 ---
 name: Data Listing Request
 about: Dataset Listing Request for Data Farming
-title: Data Listing Request
+title: Listing Request - <your-dataset-did>
 labels: Listing-New
-assignees: ''
+assignees: innoprenuer
 
 ---
 
