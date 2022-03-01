@@ -1,10 +1,1 @@
-[![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
-
-# Ocean Data Farming
-
-Ocean Data Farming (DF) rewards OCEAN to people who drive data consume volume and data pool liquidity in the Ocean ecosystem.
-
-[This DF blog post] (FIXME add link) has all the key info. [Draft](https://github.com/oceanprotocol/datafarming/blob/main/README.md)
-
-*This* repo maintains the list of approved assets & pools.
-
+This repo is obsolete. Why: people don't need to apply to qualify for DF. They either do, or they don't.
