@@ -4,7 +4,7 @@
 
 Ocean Data Farming (DF) rewards OCEAN to people who drive data consume volume and data pool liquidity in the Ocean ecosystem.
 
-[This DF blog post] (FIXME add link) has all the key info.
+[This DF blog post] (FIXME add link) has all the key info. [Draft](https://github.com/oceanprotocol/datafarming/blob/main/README.md)
 
 *This* repo maintains the list of approved assets & pools.
 
